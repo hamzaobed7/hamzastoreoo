@@ -1,0 +1,15 @@
+.back{
+background-color: aqua;
+height: 100vn;
+}
+.back li{
+  
+    text-align: center;
+    list-style: none;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: rgb(148, 168, 168);
+}
+li a{
+      text-decoration: none;
+}
